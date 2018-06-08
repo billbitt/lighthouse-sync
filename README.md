@@ -21,7 +21,7 @@ create a copy of `config/sequelizeCliConfig.js` that contains your mysql credent
 
 install the latest release of [`lbrycrd`](https://github.com/lbryio/lbrycrd/releases)
 
-start lbrycrdd and leaving running 
+start lbrycrdd and leave running 
 
 ```
 ./lbrycrdd -server -txindex -rpcuser=lbry -rpcpassword=lbry
